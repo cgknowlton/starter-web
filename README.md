@@ -16,7 +16,7 @@ Deployment text
 
 ## How to Contribute
 
-Contribution text
+Please fork this repo then issue pull requests for review.
 
 ### Copyright
 
